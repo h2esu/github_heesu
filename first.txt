@@ -1,8 +1,12 @@
 <html>
+<<<<<<< HEAD
 	<body>
 		<ul>
 			<li>
 			</li>
 		</ul>
 	</body>
+=======
+김희수
+>>>>>>> 실험
 </html>
